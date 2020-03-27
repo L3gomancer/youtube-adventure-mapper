@@ -55,7 +55,7 @@ The repository contains examples of maps generated from these three youtube game
 - [Choose Your Adventure](https://www.youtube.com/watch?v=OqozGZXYb1Y)
 - [Youtube Street Fighter](https://wwhttps://www.youtube.com/watch?v=LPQ1XrllZmA)
 
-An example of the two output files and an svg graph are all available in this repository.
+An example of the two output files and an svg graph are below
 
 ### The Dark Room
 
@@ -67,9 +67,9 @@ An example of the two output files and an svg graph are all available in this re
 
 ### Street Fighter
 
-Note that the dot file for this was modified to increase the vertical node spacing and make it more readable.
+This didnt turn out very well for some reason.
 
-The changes were as follows:
+Note that the dot file for this was modified to increase the vertical node spacing and make it more readable.
 
 ```
 digraph {
